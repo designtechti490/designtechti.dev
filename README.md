@@ -1,7 +1,7 @@
 # Professional Portfolio
 
-![preview](github/desktop.png)
-![preview mobile](github/mobile.png)
+![preview](.github/desktop.png)
+![preview mobile](.github/mobile.png)
 
 ## 🚀 About this Project
 
