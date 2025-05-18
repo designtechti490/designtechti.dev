@@ -11,7 +11,7 @@ const INFO = {
 	socials: {
 		twitter: "https://twitter.com/designtechtidev",
 		github: "https://github.com/designtechti490",
-		linkedin: "https://linkedin.com/designtechtidev",
+		linkedin: "https://linkedin.com/in/designtechtidev",
 		instagram: "https://instagram.com/designtechti.dev",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
@@ -51,6 +51,13 @@ const INFO = {
 			{
 				role: "Software Engineer Freelancer (Self Employed)",
 				company: "Design Tech TI - Hybrid (worldwide)",
+				companylogo: "../assets/images/logo.png",
+				from: "Sep 2017",
+				to: "Present",
+			},
+			{
+				role: "Retail Salesperson",
+				company: "Casa do Papel - Rio Grande do Sul's State",
 				companylogo: "../assets/images/logo.png",
 				from: "Sep 2017",
 				to: "Present",
